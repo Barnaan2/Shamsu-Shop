@@ -1,0 +1,19 @@
+.categories-container .category-container{
+    border-style: dashed;
+    display: grid;
+   align-items: center;
+   justify-content: center;
+   padding: 50px;
+   margin: 5px;
+}
+.categories-container .category-container img{
+height: 100px;
+width: 200px;
+}
+.categories-container .category-container .catagory-body-container,img{
+    border-style: dotted;
+    padding:5px;
+    position: relative;
+    z-index: 5;
+   
+}

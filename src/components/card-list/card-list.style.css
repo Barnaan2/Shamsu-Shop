@@ -1,0 +1,10 @@
+
+.categories-container{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    grid-template-columns: repeat(3,1fr);
+    position: relative;
+    z-index: 0;
+}
