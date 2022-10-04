@@ -1,0 +1,8 @@
+link....... 
+what are links in react router dom?
+links in react are the anchor tag of react router dom so it 
+make it possible to walk through the entire component we have.
+but NOTE:
+we can also use anchor tag. it works perfectly.
+******FRAGMENTS*********
+ a fragment is a built in component from react that will merge our div from other component to the existing component. 
