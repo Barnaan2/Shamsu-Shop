@@ -3,7 +3,7 @@ const Card = (props)=>{
 const {catagory} = props
 
     return(
-        <div className='category-container'>
+        <div key={catagory.id} className='category-container'>
         <img src={catagory.image} alt="sorry"/>
       <div className='catagory-body-container' key={catagory.id}>
     <h2>{catagory.title}</h2>

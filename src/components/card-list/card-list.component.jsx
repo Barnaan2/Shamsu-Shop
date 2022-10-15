@@ -11,7 +11,7 @@ const {categories} = props
 
 return(
  
- <Card catagory={catagory}/>
+ <Card  catagory={catagory}/>
     );
       }) }
       
